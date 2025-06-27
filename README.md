@@ -1,8 +1,8 @@
-# Connect 🌐
+# Vibely 🌐
 
 **Bridging Distances, Building Relationships**
 
-Connect is a modern, full-stack social media platform built with Next.js 14, designed to facilitate meaningful connections and conversations in a sleek, dark-themed interface. The platform enables users to share messages, engage with communities, and build lasting relationships through real-time interactions.
+Vibely is a modern, full-stack social media platform built with Next.js 14, designed to facilitate meaningful connections and conversations in a sleek, dark-themed interface. The platform enables users to share messages, engage with communities, and build lasting relationships through real-time interactions.
 
 ## ✨ Features
 
@@ -54,7 +54,7 @@ Connect is a modern, full-stack social media platform built with Next.js 14, des
 ## 📁 Project Structure
 
 ```
-connect/
+vibely/
 ├── app/                          # Next.js 14 App Router
 │   ├── (auth)/                   # Authentication routes
 │   │   ├── layout.tsx           # Auth layout with Clerk
